@@ -1,0 +1,5 @@
+﻿Copia estos templates en la app messenger dentro de templates/messenger del proyecto webplayground:
+
+· En Windows	C:\CursoDjango\webplayground\messenger\templates\messenger
+· En Mac OS		/Users/tu_usuario/Documents/CursoDjango/webplayground/messenger/templates/messenger
+· En Linux 		/home/tu_usuario/CursoDjango/webplayground/messenger/templates/messenger
